@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-size:xx-large;
+    font-style: italic;
+}
+
+body {
+    background-image: url('snakey.jpeg');
+    background-size: 100%;
+}
+
+#restart {
+    position: relative;
+    left: 200px;
+}
